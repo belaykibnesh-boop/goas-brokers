@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@supabase/supabase-js": "^2.39.0",
-    "@telegram-apps/sdk": "^0.20.0",
+    "@telegram-apps/sdk": "^2.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
